@@ -1,9 +1,8 @@
 {
-  "name": "Injecta",
+  "name": "GreenLens",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Injecting stuff",
-  "homepage_url": "http://danharper.me",
+  "description": "Injects sustainability information into Amazon.com search results",
   "background": {
     "scripts": [
       "background.js"
